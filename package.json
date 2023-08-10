@@ -9,11 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/server": "^11.11.0",
+    "@mantine/core": "^6.0.17",
+    "@mantine/form": "^6.0.17",
+    "@mantine/hooks": "^6.0.17",
+    "@mantine/next": "^6.0.17",
+    "@mantine/notifications": "^6.0.17",
+    "@rumess/react-flip-countdown": "^1.2.6",
+    "@solana/wallet-adapter-base": "^0.9.22",
+    "@solana/wallet-adapter-react": "^0.15.33",
+    "@solana/wallet-adapter-react-ui": "^0.9.32",
+    "@solana/wallet-adapter-wallets": "^0.19.19",
+    "@solana/web3.js": "^1.78.3",
     "@types/node": "20.4.8",
     "@types/react": "18.2.18",
     "@types/react-dom": "18.2.7",
     "next": "13.4.12",
     "react": "18.2.0",
+    "react-countdown": "^2.3.5",
     "react-dom": "18.2.0",
     "typescript": "5.1.6"
   }
